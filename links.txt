@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/khethanrg/word-2-vec   # for 3GB word2vec Model
+https://www.kaggle.com/datasets/priyadvinoth/amazon-apparel-dataset  # for dataset and 50 MB word@vec model
