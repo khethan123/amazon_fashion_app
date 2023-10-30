@@ -17,5 +17,5 @@ Here's a brief explanation of each of the five methods used:
 
 These techniques are used to calculate similarity between two or more documents or products based on their textual content. They are widely used in recommendation systems, search engines, and other applications where similarity between textual data needs to be calculated.
 
-You will get to know of the comparison once you run amazon-fashion-recommendation.ipynb, Amazon_fashions.ipynb and lastly app.py  in an order. <br>
+You will get to know of the comparison once you run `amazon-fashion-recommendation.ipynb`, `Amazon_fashions.ipynb` and lastly `app.py`  in an order. <br>
 Make sure to open any editor on your local system. Then install miniconda and create a new virtual environment and then install all the required dependencies and then install jupyter in your editor and run it. 
